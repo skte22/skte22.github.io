@@ -1,0 +1,25 @@
+{
+  "hero": [
+    {
+      "title": "Arsillus",
+      "imageUrl": "/Assets/mhy_mc.png"
+    },
+    {
+      "title": "Arthephoto",
+      "imageUrl": "/Assets/kml_mc.png"
+    },
+    {
+      "title": "Avturfuel",
+      "imageUrl": "/Assets/dayat_mc.png"
+    },
+    {
+      "title": "Yomurii",
+      "imageUrl": "/Assets/burung_mc.png"
+    },
+    {
+      "title": "Adn",
+      "imageUrl": "/Assets/ngabdri_mc.png"
+    }
+    
+  ]
+}
