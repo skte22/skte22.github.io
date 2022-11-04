@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fe589d00.css",
+    "main.js": "/static/js/main.107aaae1.js",
+    "static/js/787.2f52308a.chunk.js": "/static/js/787.2f52308a.chunk.js",
+    "static/media/heroSatu.png": "/static/media/heroSatu.f7a44deb05259df539b4.png",
+    "static/media/halloweenProject.png": "/static/media/halloweenProject.178a0223a1692f9f675c.png",
+    "static/media/wedeh.png": "/static/media/wedeh.83c422c05707827d37eb.png",
+    "static/media/logo.png": "/static/media/logo.153f04f27e49f76d2c78.png",
+    "index.html": "/index.html",
+    "main.fe589d00.css.map": "/static/css/main.fe589d00.css.map",
+    "main.107aaae1.js.map": "/static/js/main.107aaae1.js.map",
+    "787.2f52308a.chunk.js.map": "/static/js/787.2f52308a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe589d00.css",
+    "static/js/main.107aaae1.js"
+  ]
+}
